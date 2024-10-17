@@ -1,0 +1,262 @@
+{
+    "LOGIN_SUCCESS": {
+        "en": "Login success ",
+        "vi": "đăng nhập thành công"
+    },
+    "ACCOUNT_NOT_FOUND": {
+        "en": "Account not found",
+        "vi": "Không tìm thấy tài khoản"
+    },
+    "PASSWORD_OR_EMAIL_NOT_CORRECT": {
+        "en": "Password or email not correct!",
+        "vi": "Mật khẩu hoặc email không chính xác!"
+    },
+    "ACCOUNT_NOT_ACTIVATE": {
+        "en": "You are not active, please check email!",
+        "vi": "Bạn chưa được kích hoạt, vui lòng kiểm tra email!"
+    },
+    "ACCOUNT_ACTIVATED": {
+        "en": "User is activated!",
+        "vi": "Tài khoản đã kích hoạt!"
+    },
+    "ACCOUNT_ALREADY_EXISTS": {
+        "en": "Account already exists",
+        "vi": "Tài khoản đã tồn tại"
+    },
+    "GAS_FEE_NOT_ENOUGH": {
+        "en": "Gas fee not enough or your exchange not correct!",
+        "vi": "Phí gas không đủ hoặc giao dịch không chính xác!"
+    },
+    "UNPREDICTABLE_GAS_LIMIT": {
+        "en": "Gas fee not enough or your exchange not correct!",
+        "vi": "Phí gas không đủ hoặc giao dịch không chính xác!"
+    },
+    "TOO_MANY_REQUEST": {
+        "en": "Too many requests!",
+        "vi": "Quá nhiều yêu cầu"
+    },
+    "INVALID_DATE": {
+        "en": "Invalid Date",
+        "vi": "Ngày không hợp lệ"
+    },
+    "VALIDATION_ERROR": {
+        "en": "Validation Error",
+        "vi": "Lỗi định dạng"
+    },
+    "UNAUTHORIZED": {
+        "en": "Invalid token",
+        "vi": "Token không hợp lệ"
+    },
+    "ROLE_ADMIN": {
+        "en": "Function only service for ADMIN",
+        "vi": "Chức năng chỉ dành cho quản trị"
+    },
+    "NO_ACCESS_PERMISSION": {
+        "en": "You dont have permission!",
+        "vi": "Bạn không có quyền truy cập!"
+    },
+    "WHITELIST_HOLDING": {
+        "en": "Your address is in whitelist holding!",
+        "vi": "Địa chỉ của bạn đang được lưu giữ!"
+    },
+    "PLEASE_TRY_AGAIN": {
+        "en": "Something is wrong, please try again!",
+        "vi": "Có lỗi xảy ra, vui lòng thử lại!"
+    },
+    "WRONG_PASSWORD": {
+        "en": "Password or email not correct!",
+        "vi": "Mật khẩu hoặc email không đúng!"
+    },
+    "CODE_NOT_FOUND": {
+        "en": "Code not found",
+        "vi": "Không tìm thấy mã"
+    },
+    "CHECK_EMAIL": {
+        "en": "Please check email, code was sent!",
+        "vi": "Mã xác nhận đã được gửi, vui lòng kiểm tra lại email!"
+    },
+    "EMAIL_EXISTED": {
+        "en": "Email is existed!",
+        "vi": "Email đã tồn tại!"
+    },
+    "EMAIL_NOT_VALID": {
+        "en": "Email is not valid!",
+        "vi": "Email không hợp lệ!"
+    },
+    "POOL_FINISH": {
+        "en": "Pool finished, you can not join!",
+        "vi": "Chương trình đã kết thúc, bạn không thể tham gia!"
+    },
+    "NOT_STAKING_LESS_THAN_MINUMUM": {
+        "en": "Can not staking less than minimum Staking!",
+        "vi": "Không thể đặt cược ít hơn đặt cược tối thiểu!"
+    },
+    "NOT_STAKING_MORE_THAN_MAXIMUM": {
+        "en": "Can not staking greater than maximum total staked value!",
+        "vi": "Không thể đặt cược lớn hơn tổng giá trị đặt cược tối đa!"
+    },
+    "INVESTMENT_TOKEN_NOT_ENOUGHT": {
+        "en": "Balance Investment Token not enough!",
+        "vi": "Số dư token vốn đầu tư không đủ!"
+    },
+    "REWARD_MONTHLY": {
+        "en": "Not enough time to receive, minimum 30 days.",
+        "vi": "Không đủ thời gian để nhận, tối thiểu 30 ngày."
+    },
+    "REWARD_YEARLY": {
+        "en": "Not enough time to receive, minimum 365 days.",
+        "vi": "Không đủ thời gian để nhận, tối thiểu 365 ngày."
+    },
+    "REWARD_RECEIVED": {
+        "en": "You received.",
+        "vi": "Bạn đã nhận."
+    },
+    "TRANSACTION_COMPLETED_NOT_RECEIVE": {
+        "en": "You can not receive again because your transaction is completed.",
+        "vi": "Bạn không thể nhận lại vì giao dịch của bạn đã hoàn tất."
+    },
+    "COMEBACK_FOR_NEXT_RECEIVE": {
+        "en": "Please comeback for the next receive.",
+        "vi": "Vui lòng quay lại để nhận lần tiếp theo."
+    },
+    "DATA_NOT_FOUND": {
+        "en": "Data not found",
+        "vi": "Không tìm thấy dữ liệu"
+    },
+    "CANNOT_RESET_PASSWORD": {
+        "en": "Can not reset password.",
+        "vi": "Có lỗi xảy ra, không thể thay đổi mật khẩu"
+    },
+    "CANNOT_CREATE_BOX": {
+        "en": "Can not create Box.",
+        "vi": "Không thể tạo Box."
+    },
+    "CANNOT_CREATE_CHARACTER": {
+        "en": "Can not create Character.",
+        "vi": "Không thể tạo Character."
+    },
+    "CANNOT_CREATE_CHEST": {
+        "en": "Can not create Chest.",
+        "vi": "Không thể tạo Chest."
+    },
+    "CANNOT_CREATE_DICE": {
+        "en": "Can not create Dice.",
+        "vi": "Không thể tạo Dice."
+    },
+    "CANNOT_CREATE_BUILDING": {
+        "en": "Can not create Building.",
+        "vi": "Không thể tạo Building."
+    },
+    "CANNOT_CREATE_LAND": {
+        "en": "Can not create Land.",
+        "vi": "Không thể tạo Land."
+    },
+    "CANNOT_UPDATE_BOX": {
+        "en": "Can not update Box.",
+        "vi": "Không thể cập nhật Box."
+    },
+    "CANNOT_UPDATE_CHARACTER": {
+        "en": "Can not update Character.",
+        "vi": "Không thể cập nhật Character."
+    },
+    "CANNOT_UPDATE_DICE": {
+        "en": "Can not update Dice.",
+        "vi": "Không thể cập nhật Dice."
+    },
+    "CANNOT_UPDATE_BUILDING": {
+        "en": "Can not update Building.",
+        "vi": "Không thể cập nhật Building."
+    },
+    "CANNOT_UPDATE_LAND": {
+        "en": "Can not update Land.",
+        "vi": "Không thể cập nhật Land."
+    },
+    "DICE_NOT_VALID": {
+        "en": "Dice is not valid.",
+        "vi": "Dice không hợp lệ."
+    },
+    "BOX_NOT_VALID": {
+        "en": "Box is not valid.",
+        "vi": "Box không hợp lệ."
+    },
+    "CHACRATER_NOT_VALID": {
+        "en": "Character is not valid.",
+        "vi": "Character không hợp lệ."
+    },
+    "BUILDING_NOT_VALID": {
+        "en": "Building is not valid.",
+        "vi": "Building không hợp lệ."
+    },
+    "LAND_NOT_VALID": {
+        "en": "Land is not valid.",
+        "vi": "Land không hợp lệ."
+    },
+    "UPDATE_DICE_FAILED": {
+        "en": "Update dice failed.",
+        "vi": "Cập nhật dice thất bại."
+    },
+    "UPDATE_BOX_FAILED": {
+        "en": "Update box failed.",
+        "vi": "Cập nhật box thất bại."
+    },
+    "UPDATE_BUILDING_FAILED": {
+        "en": "Update building failed.",
+        "vi": "Cập nhật building thất bại."
+    },
+    "UPDATE_LAND_FAILED": {
+        "en": "Update land failed.",
+        "vi": "Cập nhật land thất bại."
+    },
+    "UPDATE_CHARACTER_FAILED": {
+        "en": "Update character failed.",
+        "vi": "Cập nhật character thất bại."
+    },
+    "CANNOT_CREATE_HISTORY": {
+        "en": "Can not create history.",
+        "vi": "Không thể tạo lịch sử."
+    },
+    "CANNOT_FOUND_WALLET_ADMIN": {
+        "en": "Can not find wallet ADMIN.",
+        "vi": "Không thể tìm thấy ví của admin."
+    },
+    "ACTIVE_CODE_NOT_CORRECT": {
+        "en": "Active code not correct.",
+        "vi": "Mã kích hoạt không chính xác."
+    },
+    "PUBLIC_ADDRESS_NOT_VALID": {
+        "en": "publicAddress is not valid.",
+        "vi": "publicAddress không hợp lệ"
+    },
+    "ADD_SUCCESS": {
+        "en": "Add success.",
+        "vi": "Thêm mới thành công."
+    },
+    "UPDATE_SUCCESS": {
+        "en": "Update success.",
+        "vi": "Cập nhật thành công."
+    },
+    "DELETE_SUCCESS": {
+        "en": "Delete success.",
+        "vi": "Xóa thành công."
+    },
+    "GET_SUCCESS": {
+        "en": "Get data success.",
+        "vi": "Lấy dữ liệu thành công."
+    },
+    "UPDATE_FAILED": {
+        "en": "Update failed.",
+        "vi": "Cập nhật không thành công."
+    },
+    "INTERNAL_SERVER_ERROR": {
+        "en": "Internal server error.",
+        "vi": "Lỗi máy chủ."
+    },
+    "BAD_REQUEST": {
+        "en": "Bad request.",
+        "vi": "Yêu cầu không hợp lệ."
+    },
+    "NOT_FOUND": {
+        "en": "Not found.",
+        "vi": "Không tìm thấy."
+    }
+}
