@@ -1,4 +1,5 @@
 const userController = require('../../controllers/apis/user.controller');
+const adminController = require('../../controllers/apis/admin.controller');
 const permissionController = require('../../controllers/apis/permission.controller');
 const express = require('express');
 const router = express();
@@ -15,6 +16,7 @@ router.use(cors());
 
 router.use(jwt());
 router.use(expressJoiValidations({overwriteRequest:true,throwErrors:true  }));
+router.use("/admin", adminController);
 router.use('/user', userController);
 router.use('/permission', permissionController);
 router.use(errorHandler);
